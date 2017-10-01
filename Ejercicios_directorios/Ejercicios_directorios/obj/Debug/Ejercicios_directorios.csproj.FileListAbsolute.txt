@@ -1,0 +1,9 @@
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\bin\Debug\Ejercicios_directorios.exe.config
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\bin\Debug\Ejercicios_directorios.exe
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\bin\Debug\Ejercicios_directorios.pdb
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\obj\Debug\Ejercicios_directorios.csprojResolveAssemblyReference.cache
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\obj\Debug\Ejercicios_directorios.Form1.resources
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\obj\Debug\Ejercicios_directorios.Properties.Resources.resources
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\obj\Debug\Ejercicios_directorios.csproj.GenerateResource.Cache
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\obj\Debug\Ejercicios_directorios.exe
+c:\users\msimaximo\documents\visual studio 2013\Projects\Ejercicios_directorios\Ejercicios_directorios\obj\Debug\Ejercicios_directorios.pdb
